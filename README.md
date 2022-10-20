@@ -1,9 +1,11 @@
 Site criado para vendas de produtos.
-deploy: https://top-store.vercel.app/#/
+
+Deploy: https://top-store.vercel.app/#/
 
 Linguagens e frameworks utilizados: HTML , CSS , JS e VUE.js
 
-Os produtos foram usados de uma API, utilizando protocolo Axios
+Os produtos foram usados de uma API, utilizando protocolo - Axios -
+
 Fake Store API
 https://fakestoreapi.com/
 
