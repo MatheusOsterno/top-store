@@ -1,3 +1,5 @@
+# TOP STORE
+
 Site criado para vendas de produtos.
 
 Deploy: https://top-store.vercel.app/#/
@@ -21,7 +23,7 @@ Cronograma:
 - (X) Responsividade
 
 
-# TOP STORE
+
 ## Project setup
 ```
 yarn install
